@@ -1,0 +1,22 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s221061447/sit725-2022-t1-prac2.git"
+  },
+  "author": "Paul Jose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s221061447/sit725-2022-t1-prac2/issues"
+  },
+  "homepage": "https://github.com/s221061447/sit725-2022-t1-prac2#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
